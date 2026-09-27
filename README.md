@@ -1,396 +1,138 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<!--                           HEADER                               -->
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-# AAYUSH NAMDEO
-
-### Software Engineer · Full-Stack · Cloud · AI
-
-<p>
-Building systems, products, and infrastructure that solve real problems.
-</p>
-
-<p>
-<a href="https://github.com/ayeus">
-<img src="https://img.shields.io/badge/GitHub-ayeus-181717?style=for-the-badge&logo=github" />
-</a>
-<a href="https://www.linkedin.com/in/aayush-namdeo-299660287/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-</a>
-</p>
-
-</div>
-
----
-
-## `> whoami`
-
-```text
-Aayush Namdeo
-────────────────────────────────────────────
-
-Role        Software Engineer
-Focus       Backend · Cloud · AI · Full-Stack
-Languages   C++ · Java · Python · Go · Rust · TypeScript
-Building    SN
-Interests   Distributed Systems · AI Infrastructure
-            Cloud Architecture · System Design
-
-Location    India
-```
-
----
-
-## ⚡ What I'm Building
-
-<div align="center">
-
-### `SN`
-
-**AI Infrastructure Platform**
-
-Building an infrastructure-focused platform around AI workloads,
-cloud systems, developer tooling, and scalable backend architecture.
-
-`Next.js` · `TypeScript` · `Go` · `Rust` · `AWS` · `Docker`
-
-<br>
+<!-- Images are generated from profile/profile.toml by profile/build.py -->
 
 <a href="https://github.com/ayeus">
-<img src="https://img.shields.io/badge/EXPLORE_SN-111111?style=for-the-badge&logo=github&logoColor=white" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayeus/ayeus/main/assets/hero-dark.svg">
+    <img alt="Aayush Namdeo — building infrastructure for AI" src="https://raw.githubusercontent.com/ayeus/ayeus/main/assets/hero-light.svg" width="100%">
+  </picture>
 </a>
 
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/aayush-namdeo-299660287/"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="#-what-im-building"><img src="https://img.shields.io/badge/projects-3_featured-ff7a45?style=flat-square" alt="Projects"></a>
+  <a href="https://github.com/ayeus?tab=repositories"><img src="https://img.shields.io/badge/all_repos-browse-43d1f5?style=flat-square&logo=github&logoColor=white" alt="Repositories"></a>
+  <img src="https://komarev.com/ghpvc/?username=ayeus&style=flat-square&color=9be564&label=profile+views" alt="Profile views">
+</p>
 
----
+## ⚡ What I'm building
 
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🛰️ SentinelGIS
-
-**Data Analytics & Risk Prediction System**
-
-Geospatial analytics platform combining data processing,
-machine learning, and GIS for risk analysis and prediction.
-
-**Stack**
-
-`Python` `SQL` `ML` `GIS` `TensorFlow`
-
-<br>
-
-<a href="https://github.com/ayeus/Sentinel-GIS">
-<img src="https://img.shields.io/badge/View_Project-111111?style=flat-square&logo=github" />
+<a href="https://github.com/ayeus/SN">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayeus/ayeus/main/assets/card-ayeusann-dark.svg">
+    <img alt="AyeusANN — pools idle GPUs into inference endpoints" src="https://raw.githubusercontent.com/ayeus/ayeus/main/assets/card-ayeusann-light.svg" width="100%">
+  </picture>
 </a>
 
-</td>
-
-<td width="50%">
-
-### ⚙️ SN
-
-**AI Infrastructure Platform**
-
-Exploring scalable infrastructure for AI workloads,
-cloud systems, developer tooling, and high-performance services.
-
-**Stack**
-
-`Go` `Rust` `AWS` `Docker` `TypeScript`
-
-<br>
-
-<a href="https://github.com/ayeus">
-<img src="https://img.shields.io/badge/View_Project-111111?style=flat-square&logo=github" />
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔌 Backend Systems
-
-**APIs & Distributed Services**
-
-Building backend services with clean architecture,
-database integration, authentication, and production-ready APIs.
-
-**Stack**
-
-`Java` `Spring Boot` `Python` `Go` `SQL`
-
-</td>
-
-<td width="50%">
-
-### 🧠 AI / ML Systems
-
-**Applied Machine Learning**
-
-Building practical ML systems involving prediction,
-recommendation, data processing, and intelligent automation.
-
-**Stack**
-
-`Python` `TensorFlow` `Keras` `Scikit-learn`
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧰 Tech Stack
-
-<details>
-<summary><b>Languages</b></summary>
-
-<br>
-
 <p>
-<img src="https://skillicons.dev/icons?i=cpp,java,python,go,rust,js,ts,bash&perline=8" />
+<a href="https://github.com/ayeus/MAX"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayeus/ayeus/main/assets/card-max-dark.svg"><img alt="MAX — local-first macOS computer agent" src="https://raw.githubusercontent.com/ayeus/ayeus/main/assets/card-max-light.svg" width="49%"></picture></a>
+<a href="https://github.com/ayeus/Sentinal-GIS"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayeus/ayeus/main/assets/card-sentinel-dark.svg"><img alt="SentinelGIS — outbreak intelligence for India" src="https://raw.githubusercontent.com/ayeus/ayeus/main/assets/card-sentinel-light.svg" width="49%"></picture></a>
 </p>
 
-</details>
+<sub>Click a card to open the repo. Click a heading below to see how it works.</sub>
 
 <details>
-<summary><b>Frontend</b></summary>
-
+<summary><b>🛰️ AyeusANN: how a request reaches an idle GPU</b></summary>
 <br>
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css&perline=8" />
-</p>
-
-</details>
-
-<details>
-<summary><b>Backend</b></summary>
-
-<br>
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,spring,flask&perline=8" />
-</p>
-
-</details>
-
-<details>
-<summary><b>Cloud & Infrastructure</b></summary>
-
-<br>
-
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,linux,githubactions&perline=8" />
-</p>
-
-</details>
-
-<details>
-<summary><b>Databases</b></summary>
-
-<br>
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres&perline=8" />
-</p>
-
-</details>
-
-<details>
-<summary><b>AI / Data</b></summary>
-
-<br>
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,tensorflow&perline=8" />
-</p>
-
-`Pandas` · `NumPy` · `Scikit-learn` · `Keras` · `GIS` · `Data Processing`
-
-</details>
-
----
-
-## 🧠 Engineering Interests
-
-```text
-┌─────────────────────────────────────────────────────┐
-│                                                     │
-│   BACKEND            CLOUD             AI           │
-│   APIs               AWS               ML           │
-│   Databases          Docker            AI Infra     │
-│   Architecture       CI/CD             LLM Systems  │
-│                                                     │
-│   SYSTEMS            DATA              FRONTEND     │
-│   Distributed        Pipelines         React        │
-│   Performance        Analytics         Next.js      │
-│   System Design      Processing        TypeScript   │
-│                                                     │
-└─────────────────────────────────────────────────────┘
-```
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<a href="https://github.com/ayeus">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api?username=ayeus&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" />
-
-</a>
-
-<a href="https://github.com/ayeus">
-
-<img height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayeus&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
-
-</a>
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayeus&hide_border=true&theme=github-compact" width="95%"/>
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/ayeus/ayeus/output/github-contribution-grid-snake.svg" />
-
-</div>
-
----
-
-## 🎯 Currently Exploring
-
-<table>
-<tr>
-<td>
-
-### Distributed Systems
-
-Designing reliable and scalable services.
-
-</td>
-<td>
-
-### AI Infrastructure
-
-Building systems around AI workloads.
-
-</td>
-<td>
-
-### Cloud Architecture
-
-Learning how production systems scale.
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ How I Build
+Hosts run a Rust agent that detects and benchmarks their GPUs and joins an outbound-only WireGuard mesh. Eight Go services handle auth, scheduling, routing, billing and host reputation.
 
 ```mermaid
 flowchart LR
-
-A[Problem] --> B[Architecture]
-B --> C[Implementation]
-C --> D[Testing]
-D --> E[CI/CD]
-E --> F[Deploy]
-F --> G[Monitor]
-G --> B
+  C[Customer] --> GW[API gateway]
+  GW --> CA[control-api]
+  CA --> S[scheduler]
+  S --> CO[coordinator]
+  CO -->|gRPC over WireGuard| A[Rust host agent]
+  C -->|POST /v1/chat| IG[inference-gateway]
+  IG --> R[router]
+  R --> V[model replica on host GPU]
+  V --> B[billing-meter]
+  T[trust-engine] -.reputation.-> S
 ```
 
----
-
-## 📌 Engineering Principles
-
-> **Build simple systems first.
-> Measure before optimizing.
-> Automate repetitive work.
-> Design for failure.
-> Keep learning.**
-
----
-
-## 🔭 Roadmap
-
-<details>
-<summary><b>2026 → What I'm working toward</b></summary>
-
-<br>
-
-* [x] Full-stack development
-* [x] Backend development
-* [x] Machine Learning projects
-* [x] Cloud fundamentals
-* [x] Data & analytics projects
-* [ ] Advanced system design
-* [ ] Distributed systems
-* [ ] Production-grade AI infrastructure
-* [ ] Open-source contributions
-* [ ] Large-scale backend systems
-
+`Go` · `Rust` · `gRPC / protobuf` · `PostgreSQL` · `Redis` · `NATS` · `MinIO` · `Docker Compose`
 </details>
 
----
+<details>
+<summary><b>🎙️ MAX: why it doesn't trust its own clicks</b></summary>
+<br>
 
-## 💬 Let's Connect
+Most assistants report success once they've *sent* an action. MAX runs a closed loop: it re-reads the OS state after every step and only reports success when the result is really there.
 
-<div align="center">
+```mermaid
+flowchart LR
+  I[Voice or text] --> P[Perceive: AX tree, processes, terminal]
+  P --> L[Plan with a local LLM]
+  L --> K{Risk check}
+  K -->|safe| A[Act: AXPress, keyboard, shell]
+  K -->|high risk| Y[Ask to confirm]
+  Y --> A
+  A --> V{Verify OS state}
+  V -->|goal met| D[Speak a factual summary]
+  V -->|not yet| P
+```
 
-If you're interested in **software engineering, AI infrastructure,
-cloud systems, backend engineering, or building ambitious products** —
+Runs 100% offline on Apple Silicon (Ollama + local Whisper). Tamper-evident audit log, process-group isolation, 228 tests.
+</details>
 
-**let's connect.**
+<details>
+<summary><b>🛡️ SentinelGIS: from government PDFs to a risk map</b></summary>
+<br>
+
+```mermaid
+flowchart LR
+  S1[IDSP outbreak PDFs] --> E[Scrape and normalise]
+  S2[RSS / Google News] --> X[Disease signal extraction]
+  E --> F[Lag, neighbour-region and trend features]
+  F --> M[Spatial Random Forest]
+  M --> API[FastAPI]
+  X --> API
+  API --> UI[React + Leaflet dashboard]
+```
+
+Weekly refresh and retraining, district-level forecasts 1–3 months ahead, and news-verified alerts on a live map.
+</details>
+
+## 🧰 Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=py,go,rust,ts,js,cpp,java&theme=dark" alt="Languages" height="40">
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=fastapi,spring,nodejs,postgres,mongodb,redis,kafka&theme=dark" alt="Backend" height="40">
+</p>
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" alt="AI/ML" height="40">
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,terraform,ansible,githubactions,linux&theme=dark" alt="Cloud and ops" height="40">
+  &nbsp;
+  <img src="https://skillicons.dev/icons?i=react,nextjs&theme=dark" alt="Web" height="40">
+</p>
+
+<details>
+<summary><b>Full list</b></summary>
+
+```toml
+[languages]  python, go, rust, typescript, javascript, c++, java, sql
+[backend]    fastapi, spring boot, node.js, rest, microservices, websockets
+[data]       postgresql, mysql, mongodb, dynamodb, redis, kafka, nats
+[ai]         pytorch, tensorflow, scikit-learn, langchain, langgraph, rag, mcp, ollama
+[infra]      aws, gcp, azure, docker, kubernetes, terraform, ansible, github actions
+[network]    wireguard, firecracker microvms, tcp/ip, linux
+```
+</details>
+
+## 🗂️ More from the lab
+
+| Repo | What it is |
+|---|---|
+| [EduForge](https://github.com/ayeus/EduForge) | Personalised LMS with a chatbot and messaging · Flask · AWS S3 |
+| [SocialSense](https://github.com/ayeus/SocialSense) | Reddit + X sentiment analysis · transformers · Streamlit |
+| [AI-dictionary](https://github.com/ayeus/AI-dictionary) | LLM-powered dictionary with quizzes · Groq |
+| [Automated-Financial-Data-Pipeline](https://github.com/ayeus/Automated-Financial-Data-Pipeline) | Inventory & sales data pipeline · Flask · Excel |
+| [Image-Comprssor](https://github.com/ayeus/Image-Comprssor) | Image & PDF compression service · Flask |
 
 <br>
 
-<a href="https://github.com/ayeus">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://www.linkedin.com/in/aayush-namdeo-299660287/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-### `BUILD → BREAK → LEARN → REBUILD`
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=ayeus&style=flat-square&color=grey" />
-
-</div>
+<p align="center">
+  <b><code>BUILD → BREAK → LEARN → REBUILD</code></b>
+</p>
