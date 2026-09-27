@@ -1,0 +1,169 @@
+# ──────────────────────────────────────────────────────────────────────────────
+#  Everything the profile SVGs say lives here.
+#  Edit, commit, push → the "profile" workflow re-renders every image in assets/.
+#  Run locally:  python profile/build.py
+# ──────────────────────────────────────────────────────────────────────────────
+
+[me]
+name_top = "AAYUSH"
+name_bottom = "NAMDEO"
+handle = "ayeus"
+status = "open to 2027 new-grad & internship roles"
+footer = "india · b.tech cse (big data analytics) · srm ist '27"
+taglines = [
+  "building AyeusANN: idle GPUs → inference endpoints",
+  "shipping MAX: a local macOS agent that checks its work",
+  "SentinelGIS: forecasting disease outbreaks across India",
+  "backend · distributed systems · AI infrastructure",
+]
+
+[terminal]
+title = "aayush@ayeus: ~ — zsh"
+whoami = [
+  "Aayush Namdeo · CS undergrad (Big Data Analytics) · SRM IST, class of 2027",
+  "Building systems, products, and infrastructure that solve real problems.",
+]
+now = [
+  # [status, name, what, stack]
+  ["building", "AyeusANN", "pools idle GPUs into inference endpoints", "go · rust"],
+  ["shipping", "MAX", "local macOS agent, verifies every action", "python"],
+]
+
+[[keys]]
+id = "recruiter"
+key = "⌘R"
+label = "recruiter"
+hint = "the 30-second version"
+anchor = "journey"
+
+[[keys]]
+id = "engineer"
+key = "⌘E"
+label = "engineer"
+hint = "architecture deep-dives"
+anchor = "under-the-hood"
+
+[[keys]]
+id = "player"
+key = "⌘P"
+label = "player"
+hint = "beat my bot at connect four"
+anchor = "arcade"
+
+# ── projects ─────────────────────────────────────────────────────────────────
+[projects.ayeusann]
+kicker = "01 · NOW BUILDING"
+title = "AyeusANN"
+status = "active"
+subtitle = "Data-center-as-a-service for AI compute"
+desc = [
+  "Pools idle GPUs from data centres, college labs,",
+  "workstations and personal rigs into production",
+  "inference endpoints. Hosts earn from spare capacity.",
+]
+facts = [["8", "Go services"], ["1", "Rust host agent"], ["gRPC", "contracts"]]
+chips = ["Go", "Rust", "gRPC", "NATS", "Postgres", "Redis"]
+repo = "https://github.com/ayeus/SN"
+
+[projects.max]
+kicker = "02 · AGENT"
+title = "MAX"
+status = "228 tests"
+desc = ["Local-first macOS computer agent: voice or", "text in, OS-verified actions out. No cloud."]
+chips = ["Python", "Ollama", "Whisper", "AX API"]
+repo = "https://github.com/ayeus/MAX"
+log = [
+  ["say", "\"open Notes and start a note called Roadmap\""],
+  ["plan", "launch Notes → new note → type title"],
+  ["act", "AXPress · menu New Note · type 8 chars"],
+  ["ok", "verified in AX tree: window \"Roadmap\""],
+]
+
+
+[projects.sentinel]
+kicker = "03 · GEO + ML"
+title = "SentinelGIS"
+status = "operational"
+desc = ["Outbreak intelligence for India: scrapes IDSP", "reports + news, forecasts risk per region."]
+chips = ["FastAPI", "React", "Leaflet", "scikit-learn"]
+repo = "https://github.com/ayeus/Sentinal-GIS"
+
+[projects.lab]
+kicker = "05 · ARCHIVE"
+title = "~/lab"
+status = "more repos"
+repo = "https://github.com/ayeus?tab=repositories"
+entries = [
+  ["EduForge", "personalised LMS · Flask · AWS S3"],
+  ["SocialSense", "Reddit + X sentiment · transformers"],
+  ["AI-dictionary", "LLM dictionary with quizzes · Groq"],
+  ["finance-pipeline", "inventory & sales ETL · Flask"],
+  ["Image-Compressor", "image & PDF compression · Flask"],
+]
+
+# ── journey (newest first) ───────────────────────────────────────────────────
+[[journey]]
+ref = "HEAD → main"
+ref_kind = "head"
+when = "now"
+title = "building AyeusANN · shipping MAX"
+detail = "8 Go services + a Rust host agent; a local agent with 228 tests"
+
+
+[[journey]]
+ref = "SpazorLabs"
+ref_kind = "branch"
+when = "jan–jul 2026"
+title = "Software Engineer (on-site)"
+detail = "Rust systems, WireGuard networking, Firecracker microVMs, Next.js consoles"
+
+[[journey]]
+ref = "BufferTech"
+ref_kind = "branch"
+when = "jan 2024 – jan 2025"
+title = "Backend Engineer"
+detail = "Python services & REST APIs, ETL pipelines, Ansible automation at 10K+ records/run"
+
+[[journey]]
+ref = "init"
+ref_kind = "init"
+when = "2023"
+title = "B.Tech CSE (Big Data Analytics) · SRM IST"
+detail = "class of 2027"
+
+[[badges]]
+icon = "star"
+text = "3rd place · Protocol 1.0 hackathon (IEEE SRM) · EcoChain"
+
+[[badges]]
+icon = "cloud"
+text = "AWS Academy · Certified Developer + Cloud Practitioner"
+
+# ── stack (logos from tandpfun/skill-icons, MIT) ──────────────────────────────
+[[stack]]
+row = "lang"
+icons = ["Python", "GoLang", "Rust", "TypeScript", "JavaScript", "CPP", "Java"]
+extra = ["SQL"]
+
+[[stack]]
+row = "backend"
+icons = ["FastAPI", "Spring", "NodeJS", "PostgreSQL", "MySQL", "MongoDB", "Redis", "Kafka"]
+extra = ["NATS", "DynamoDB"]
+
+[[stack]]
+row = "ai · ml"
+icons = ["PyTorch", "TensorFlow", "ScikitLearn"]
+extra = ["LangGraph", "RAG", "MCP", "Ollama"]
+
+[[stack]]
+row = "cloud · ops"
+icons = ["AWS", "GCP", "Azure", "Docker", "Kubernetes", "Terraform", "Ansible", "GithubActions", "Linux"]
+extra = ["WireGuard", "Firecracker"]
+
+[[stack]]
+row = "web"
+icons = ["React", "NextJS"]
+extra = ["Leaflet"]
+
+[motto]
+words = ["BUILD", "BREAK", "LEARN", "REBUILD"]

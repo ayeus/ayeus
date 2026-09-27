@@ -1,0 +1,231 @@
+{
+ "source": "ayeus/Sentinal-GIS: frontend/public/data/india_states_full.geojson + outputs/tables/predicted_risk_with_confidence.csv",
+ "centroids_lon_lat_area": {
+  "Andaman & Nicobar": [
+   92.83,
+   12.602,
+   0.125
+  ],
+  "Andhra Pradesh": [
+   79.562,
+   16.587,
+   23.274
+  ],
+  "Arunachal Pradesh": [
+   94.675,
+   28.039,
+   7.529
+  ],
+  "Assam": [
+   92.831,
+   26.357,
+   7.09
+  ],
+  "Bihar": [
+   85.605,
+   25.68,
+   8.474
+  ],
+  "Chandigarh": [
+   76.768,
+   30.734,
+   0.011
+  ],
+  "Chhattisgarh": [
+   82.035,
+   21.265,
+   11.79
+  ],
+  "Dadra and Nagar Haveli": [
+   73.081,
+   20.195,
+   0.042
+  ],
+  "Daman and Diu": [
+   70.787,
+   20.84,
+   0.045
+  ],
+  "Delhi": [
+   77.109,
+   28.647,
+   0.139
+  ],
+  "Goa": [
+   74.058,
+   15.36,
+   0.311
+  ],
+  "Gujarat": [
+   71.609,
+   22.69,
+   16.18
+  ],
+  "Haryana": [
+   76.333,
+   29.2,
+   4.085
+  ],
+  "Himachal Pradesh": [
+   77.233,
+   31.927,
+   5.303
+  ],
+  "Jammu and Kashmir": [
+   76.613,
+   33.759,
+   10.283
+  ],
+  "Jharkhand": [
+   85.558,
+   23.655,
+   7.084
+  ],
+  "Karnataka": [
+   76.166,
+   14.705,
+   16.067
+  ],
+  "Kerala": [
+   76.406,
+   10.451,
+   3.109
+  ],
+  "Lakshadweep": [
+   73.049,
+   8.281,
+   0.0
+  ],
+  "Madhya Pradesh": [
+   78.29,
+   23.542,
+   27.247
+  ],
+  "Maharashtra": [
+   76.108,
+   19.45,
+   26.447
+  ],
+  "Manipur": [
+   93.883,
+   24.739,
+   1.992
+  ],
+  "Meghalaya": [
+   91.279,
+   25.537,
+   2.014
+  ],
+  "Mizoram": [
+   92.838,
+   23.309,
+   1.866
+  ],
+  "Nagaland": [
+   94.47,
+   26.067,
+   1.497
+  ],
+  "Odisha": [
+   84.415,
+   20.505,
+   13.46
+  ],
+  "Puducherry": [
+   79.748,
+   11.909,
+   0.016
+  ],
+  "Punjab": [
+   75.409,
+   30.841,
+   4.736
+  ],
+  "Rajasthan": [
+   73.848,
+   26.583,
+   30.986
+  ],
+  "Sikkim": [
+   88.473,
+   27.572,
+   0.647
+  ],
+  "Tamil Nadu": [
+   78.4,
+   11.007,
+   10.765
+  ],
+  "Tripura": [
+   91.744,
+   23.747,
+   0.925
+  ],
+  "Uttar Pradesh": [
+   80.561,
+   26.925,
+   21.882
+  ],
+  "Uttarakhand": [
+   79.198,
+   30.156,
+   5.039
+  ],
+  "West Bengal": [
+   87.946,
+   23.903,
+   7.215
+  ],
+  "Telangana": [
+   79.02,
+   17.9,
+   11.0
+  ]
+ },
+ "forecast_2024": {
+  "Assam": [
+   "High",
+   0.98
+  ],
+  "Goa": [
+   "Medium",
+   0.52
+  ],
+  "Haryana": [
+   "High",
+   1.0
+  ],
+  "Karnataka": [
+   "High",
+   1.0
+  ],
+  "Maharashtra": [
+   "High",
+   0.89
+  ],
+  "Manipur": [
+   "High",
+   0.775
+  ],
+  "Mizoram": [
+   "High",
+   0.97
+  ],
+  "Odisha": [
+   "High",
+   1.0
+  ],
+  "Punjab": [
+   "High",
+   1.0
+  ],
+  "Rajasthan": [
+   "High",
+   1.0
+  ],
+  "Telangana": [
+   "High",
+   1.0
+  ]
+ }
+}
